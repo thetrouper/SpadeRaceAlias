@@ -1,0 +1,11 @@
+name: SpadeRaceAlias
+version: '${version}'
+main: io.github.thetrouper.spaderacealias.SpadeRaceAlias
+api-version: 1.19
+authors: [ obvWolf ]
+description: Utils for SpadeRace
+website: https://thetrouper.github.io/
+commands:
+  plugintemplateexample:
+    description: Example template command
+    usage: /plugintemplateexample
